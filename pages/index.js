@@ -11,9 +11,11 @@ const Index = () => {
         <Link href='/sobre'>
           <a>Sobre</a>
         </Link>
+
         <Link href='/contato'>
           <a>Contato</a>
         </Link>
+
         <Link href='/pesquisa'>
           <a>Pesquisa</a>
         </Link>
