@@ -1,25 +1,22 @@
 import React from 'react'
 import Link from 'next/link'
 
-
-
 const Index = () => {
   return (
     <div>
-      <h1>Olá Desenvolvedor Web</h1>
-      <div>
-        <Link href='/sobre'>
-          <a>Sobre</a>
-        </Link>
+      <p className='mt-12 text-center'>O restaurante X sempre busca por atender melhor seus cliente.<br />
+      Por isso, estamos sempre abertos a ouvia a sua opinião.
+      </p>
 
-        <Link href='/contato'>
-          <a>Contato</a>
-        </Link>
-
+      <div className='text-center my-12'>
         <Link href='/pesquisa'>
-          <a>Pesquisa</a>
+          <a className='bg-blue-400 px-6 py-4 font-bold rounded-lg shadow-lg hover:shadow'>Dar opinião ou sugestão</a>
         </Link>
       </div>
+
+      <p className='my-12 text-center'>
+        Mensagem do desconto.
+      </p>
     </div>
   )
 }
