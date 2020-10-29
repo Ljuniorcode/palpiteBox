@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [ReactJs](https://reactjs.org)
 - [NextJs](https://nextjs.org)
 - [Tailwindcss](https://tailwindcss.com)
-
+- [Node.Js](https://nodejs.org/en/)
 
 ---
 ## Agradecimentos <br />
