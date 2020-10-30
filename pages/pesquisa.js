@@ -63,7 +63,7 @@ const Pesquisa = () => {
           placeholder='Whatsapp' onChange={onChange} name='Whatsapp' value={form.Whatsapp} />
 
 
-        <label className='font-bold'>Nota:</label>
+        <label className='font-bold'>Nota: 0 para Ruim e 5 para Excelente</label>
         <div className='flex py-6'>
           {notas.map(nota => {
             return (
@@ -76,7 +76,7 @@ const Pesquisa = () => {
         </div>
 
 
-        <button className='bg-blue-400 px-6 py-4 font-bold rounded-lg shadow-lg hover:shadow' onClick={save}>Salvar</button>
+        <button className='bg-blue-400 px-6 py-4 mb-3 font-bold rounded-lg shadow-lg hover:shadow' onClick={save}>Salvar</button>
 
       </div>}
 

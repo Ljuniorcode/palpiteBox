@@ -10,6 +10,7 @@ const Contato = () => {
         <Link href='/'>
           <a>Home</a>
         </Link>
+
       </div>
     </div>
   )
