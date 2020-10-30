@@ -2,14 +2,15 @@
 
 [![HitCount](https://hits.dwyl.com/tuliofaria/tuliofaria/palpite-box.svg)](https://hits.dwyl.com/tuliofaria/tuliofaria/palpite-box)
 
-Este projeto foi construído durante a Semana Fullstack Master do [DevPleno](https://devpleno.com). Uma versão online deste projeto pode ser encontrada em: https://palpite-box.tuliofaria.dev/.
+Este projeto foi construído durante a Semana Fullstack Master do [DevPleno](https://devpleno.com). Uma versão online deste projeto pode ser encontrada em: https://vercel.com/ljuniorcode/palpite-box.
 
 ![Preview](https://github.com/tuliofaria/palpite-box/blob/master/print.png?raw=true)
 
 ## Início
 
-
-
+O palpite-box é um site feito para estabelecimentos que querem se aproximar mais dos clientes, sendo assim, o site consiste em coletar sugestões e críticas dos clientes, e em troca, o cliente recebe um cupom de desconto!
+Todas as informações são armazenadas em uma planilha disponiblizada em tempo real ao dono do estabelecimento!
+```
 ### Pré-requisitos:
 
 Você precisa do NodeJS e do NPM instalado em sua máquina.
@@ -44,6 +45,8 @@ rapidly building custom designs.
 ## Author:
 
 * **Tulio Faria** - [LinkedIn](https://www.linkedin.com/in/tuliofaria/)
+* **Luciano Junior** - [LinkedIn](https://www.linkedin.com/in/luciano-junior-dev/)
+
 
 
 ## Licença
