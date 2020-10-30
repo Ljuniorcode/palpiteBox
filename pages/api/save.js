@@ -50,6 +50,6 @@ export default async (req, res) => {
       Promo
     }))
   } catch (err) {
-    red.end('error')
+    res.end('error')
   }
 }
