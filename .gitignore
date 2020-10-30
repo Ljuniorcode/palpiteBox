@@ -1,6 +1,6 @@
 node_modules
 package-lock.json
-.next/
-.next
-.next/*
 planilha-poc
+credentials.json
+.next
+.env.local
